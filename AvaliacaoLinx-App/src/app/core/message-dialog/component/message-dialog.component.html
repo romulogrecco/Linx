@@ -1,0 +1,11 @@
+<h2 mat-dialog-title>
+    <span>{{ dialogData.dialogTitle }}</span>
+</h2>
+<div mat-dialog-content>
+  <span class="message-text">{{ dialogData.dialogMessage }}</span>
+</div>
+<div mat-dialog-actions>
+  <span class="toolbar-spacer"></span>
+  <button mat-button mat-raised-button color="primary" [mat-dialog-close]="true" *ngIf="isConfirmDialog()">Sim</button>
+  <button mat-button mat-raised-button color="warn" [mat-dialog-close]="false" *ngIf="isConfirmDialog()">Não</button>
+</div>

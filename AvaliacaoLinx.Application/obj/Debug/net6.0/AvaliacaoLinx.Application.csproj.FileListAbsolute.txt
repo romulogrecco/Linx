@@ -1,0 +1,15 @@
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\obj\Debug\net6.0\AvaliacaoLinx.Application.csproj.AssemblyReference.cache
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\obj\Debug\net6.0\AvaliacaoLinx.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\obj\Debug\net6.0\AvaliacaoLinx.Application.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\obj\Debug\net6.0\AvaliacaoLinx.Application.AssemblyInfo.cs
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\obj\Debug\net6.0\AvaliacaoLinx.Application.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\bin\Debug\net6.0\AvaliacaoLinx.Application.deps.json
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\bin\Debug\net6.0\AvaliacaoLinx.Application.dll
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\bin\Debug\net6.0\AvaliacaoLinx.Application.pdb
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\bin\Debug\net6.0\AvaliacaoLinx.Domain.dll
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\bin\Debug\net6.0\AvaliacaoLinx.Domain.pdb
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\obj\Debug\net6.0\AvaliacaoLinx.Application.csproj.CopyComplete
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\obj\Debug\net6.0\AvaliacaoLinx.Application.dll
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\obj\Debug\net6.0\refint\AvaliacaoLinx.Application.dll
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\obj\Debug\net6.0\AvaliacaoLinx.Application.pdb
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Application\obj\Debug\net6.0\ref\AvaliacaoLinx.Application.dll

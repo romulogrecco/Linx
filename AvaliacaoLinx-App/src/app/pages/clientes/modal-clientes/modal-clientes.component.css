@@ -1,0 +1,30 @@
+form {
+    overflow-x: hidden;
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+  .example-width-35 {
+    width: 35%;
+  }
+  
+  td {
+    padding-right: 8px;
+  }
+
+  .buttons-form {
+    margin-bottom: 5px;
+    display: flex;
+    place-content: flex-end;
+  }
+  .cancel-button {
+    margin-right: 10px;
+  }

@@ -1,0 +1,17 @@
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\bin\Debug\net6.0\AvaliacaoLinx.Infra.deps.json
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\bin\Debug\net6.0\AvaliacaoLinx.Infra.runtimeconfig.json
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\bin\Debug\net6.0\AvaliacaoLinx.Infra.dll
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\bin\Debug\net6.0\AvaliacaoLinx.Infra.pdb
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\bin\Debug\net6.0\AvaliacaoLinx.Domain.dll
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\bin\Debug\net6.0\AvaliacaoLinx.Domain.pdb
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\AvaliacaoLinx.Infra.csproj.AssemblyReference.cache
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\AvaliacaoLinx.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\AvaliacaoLinx.Infra.AssemblyInfoInputs.cache
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\AvaliacaoLinx.Infra.AssemblyInfo.cs
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\AvaliacaoLinx.Infra.csproj.CoreCompileInputs.cache
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\AvaliacaoLinx.Infra.csproj.CopyComplete
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\AvaliacaoLinx.Infra.dll
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\refint\AvaliacaoLinx.Infra.dll
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\AvaliacaoLinx.Infra.pdb
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\AvaliacaoLinx.Infra.genruntimeconfig.cache
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx.Infra\obj\Debug\net6.0\ref\AvaliacaoLinx.Infra.dll

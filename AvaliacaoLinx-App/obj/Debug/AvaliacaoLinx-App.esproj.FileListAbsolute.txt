@@ -1,0 +1,2 @@
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx-App\obj\Debug\AvaliacaoLinx-App.esproj.SuggestedBindingRedirects.cache
+C:\Users\romul\Desktop\talento\Linx\AvaliacaoLinx-App\obj\Debug\AvaliacaoLinx-App.esproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+}
+
+.demo-table {
+width: 100%;
+}
+  
+.demo-button-container {
+padding-bottom: 16px;
+}
+
+mat-icon {
+    margin-right: 10px;
+}
