@@ -20,3 +20,9 @@ Este projeto foi escrito para resolução da questão 24 da Avaliação Desenvol
 - [Swagger](https://swagger.io/)
 - [AutoMapper](
 - [FluentValidation](https://docs.fluentvalidation.net/en/latest/)
+
+### Frontend
+- [Angular 12](https://angular.io/)
+- [Angular Material](https://material.angular.io/)
+- [ngx-mask](https://www.npmjs.com/package/ngx-mask)
+- [ngx-ui-loader](https://www.npmjs.com/package/ngx-ui-loader)
