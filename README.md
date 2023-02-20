@@ -18,7 +18,7 @@ Este projeto foi escrito para resolução da questão 24 da Avaliação Desenvol
 - [EF Core 6](https://learn.microsoft.com/pt-br/ef/core/)
 - [SQLite](https://www.sqlite.org/)
 - [Swagger](https://swagger.io/)
-- [AutoMapper](
+- [AutoMapper](https://docs.automapper.org/en/stable/)
 - [FluentValidation](https://docs.fluentvalidation.net/en/latest/)
 
 ### Frontend
